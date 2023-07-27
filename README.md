@@ -1,4 +1,4 @@
-# FullStackBlazorApp
+# FullStackBlazor
 ## Descrição:
 <p> Projeto de teste para utilizar o BlazorWebAssmbly</p>
 
