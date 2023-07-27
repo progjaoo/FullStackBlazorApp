@@ -295,3 +295,4 @@ D:\Método.NETDireto\Curso completo (Slides - vídeos)\Dot Lives\DOT LIVE 2\Firs
 D:\Método.NETDireto\Curso completo (Slides - vídeos)\Dot Lives\DOT LIVE 2\FirstProjectBlazorApp\FirstProjectBlazorApp\Server\obj\Debug\net7.0\FirstProjectBlazorApp.Server.pdb
 D:\Método.NETDireto\Curso completo (Slides - vídeos)\Dot Lives\DOT LIVE 2\FirstProjectBlazorApp\FirstProjectBlazorApp\Server\obj\Debug\net7.0\FirstProjectBlazorApp.Server.genruntimeconfig.cache
 D:\Método.NETDireto\Curso completo (Slides - vídeos)\Dot Lives\DOT LIVE 2\FirstProjectBlazorApp\FirstProjectBlazorApp\Server\obj\Debug\net7.0\ref\FirstProjectBlazorApp.Server.dll
+D:\Método.NETDireto\Curso completo (Slides - vídeos)\Dot Lives\DOT LIVE 2\FirstProjectBlazorApp\FirstProjectBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll

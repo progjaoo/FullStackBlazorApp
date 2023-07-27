@@ -1,0 +1,22 @@
+﻿namespace FirstProjectBlazorApp.Shared.Models
+{
+    public class JobViewModel
+    {
+        public JobViewModel(Guid id, string title, string description, string company, string location, decimal salary)
+        {
+            Id = id;
+            Title = title;
+            Description = description;
+            Company = company;
+            Location = location;
+            Salary = salary;
+        }
+
+        public Guid Id { get; set; }
+        public string Title { get; private set; }
+        public string Description { get; private set; }
+        public string Company { get; private set; }
+        public string Location { get; private set; }
+        public decimal Salary { get; private set; }
+    }
+}
